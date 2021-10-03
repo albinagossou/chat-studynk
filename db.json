@@ -1,0 +1,111 @@
+{
+  "channels": [
+    {
+      "name": "Message Group",
+      "users": [
+        1,
+        2
+      ],
+      "id": 1
+    },
+    {
+      "name": "Demo",
+      "users": [
+        1
+      ],
+      "id": 2
+    },
+    {
+      "name": "Demo 2",
+      "users": [
+        2,
+        1
+      ],
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "username": "Albin",
+      "id": 1,
+      "avatar": "/src/assets/avatar1.svg"
+    },
+    {
+      "username": "Loick",
+      "id": 2,
+      "avatar": "/src/assets/avatar2.svg"
+    }
+  ],
+  "messages": [
+    {
+      "channelId": 1,
+      "message": "Bienvenue sur Studynk",
+      "userId": 1,
+      "date": "2021-07-09T10:50:03.553Z",
+      "id": 1
+    },
+    {
+      "channelId": 1,
+      "message": "Pouloulou",
+      "userId": 2,
+      "date": "2021-07-09T10:50:49.061Z",
+      "id": 2
+    },
+    {
+      "channelId": 1,
+      "message": "test",
+      "userId": 1,
+      "date": "2021-10-03T14:54:42.403Z",
+      "id": 3
+    },
+    {
+      "channelId": 2,
+      "message": "tetete",
+      "userId": 1,
+      "date": "2021-10-03T14:55:00.313Z",
+      "id": 4
+    },
+    {
+      "channelId": 1,
+      "message": "wesh",
+      "userId": 2,
+      "date": "2021-10-03T14:55:33.917Z",
+      "id": 5
+    },
+    {
+      "channelId": 1,
+      "message": "yo",
+      "userId": 1,
+      "date": "2021-10-03T15:06:42.856Z",
+      "id": 6
+    },
+    {
+      "channelId": 1,
+      "message": "wesh",
+      "userId": 2,
+      "date": "2021-10-03T15:06:47.985Z",
+      "id": 7
+    },
+    {
+      "channelId": 1,
+      "message": "yo",
+      "userId": 2,
+      "date": "2021-10-03T15:08:15.730Z",
+      "id": 8
+    },
+    {
+      "channelId": 1,
+      "message": "wesh",
+      "userId": 1,
+      "date": "2021-10-03T15:08:21.777Z",
+      "id": 9
+    },
+    {
+      "channelId": 1,
+      "message": "test",
+      "userId": 1,
+      "date": "2021-10-03T15:14:44.549Z",
+      "id": 10
+    }
+  ]
+}
